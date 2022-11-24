@@ -1,0 +1,35 @@
+
+
+.login{
+    font-size: 35px;
+    color: rgb(9, 25, 78);
+    text-align: center;
+    font-style: italic;
+   padding: 10px;
+   border-radius: 15px;
+}
+
+
+.bgimage{
+    background-image: url(../../image/login.webp);
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.position_absolute{
+    position: absolute;
+    top: 95px;
+    left: 39px;
+    margin: 30px;
+}
+
+.bg-form{
+    background-color: #cec3c2;
+    height: 410px;
+    width: 350px;
+    padding: 35px;
+    margin: 35px;
+  }

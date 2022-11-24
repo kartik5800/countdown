@@ -1,0 +1,67 @@
+.ipadview{
+    position: relative;
+    background-image: url('../image/countdown.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 540px;
+    height: 781px;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.pos-rel{
+    background-color: darkgrey;
+    height: 666px;
+    position: absolute;
+    width: 501px;
+    left: 21px;
+    top: 56px;
+
+  
+}
+
+.watchdata{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.watchdata h2{
+   
+    margin: 36px 36px 0 36px;
+    padding: 21px;
+    font-size: 55px;
+    font-weight: 700;
+    background-color: lemonchiffon;
+    border-radius: 20px 20px 0 0;
+}
+
+.watchdata p {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(11, 20, 143);
+    background-color: lemonchiffon;
+    padding: 0 19px 0 19px;
+    border-radius: 0 0 20px 20px;
+}
+
+.logout{
+    height: 50px;
+    width: 50px;
+    border-radius: 26px;
+    position: absolute;
+    right: 11px;
+    top: 13px;
+
+}
+
+.modal-content {
+    width: 97%;
+    color: white;
+    pointer-events: auto;
+    background-color: rgb(78, 72, 72);
+    top: 310px;
+}
